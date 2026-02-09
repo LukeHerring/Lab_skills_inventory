@@ -1,1 +1,2 @@
 incubation_temp=95C
+annealing_temp=62C
